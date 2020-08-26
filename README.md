@@ -14,6 +14,9 @@ For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse sim
 1. Enter the config for your algorithm (name, directory, build command, and run command)
 1. Click the "Run" button
 
+## Recommended compiling tool on windows
+Use Clion or Visual Studio Code 
+
 ## Examples
 
 Windows:
